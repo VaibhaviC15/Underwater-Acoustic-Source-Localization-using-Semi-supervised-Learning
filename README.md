@@ -1,0 +1,2 @@
+# Underwater-Acoustic-Source-Localization-using-Semi-supervised-Learning
+This repository implements a state-of-the-art machine learning solution for predicting acoustic source range in the SWELLEX96 experiment. The model combines Conformer networks with strategically placed BiLSTM layers and employs a novel Weighted L1 + Coordinate Normalize Loss for both self-supervised pretraining and supervised fine-tuning.
